@@ -1,0 +1,13 @@
+--ESSA É A BASE DO APP--
+
+Nela contém:
+-Index.html
+-AppStyle.css 
+-App.js
+
+Possui todas as informações, estruturação e codificação básicas e em funcionamento.
+Lembre dela quando fizer besteira!
+
+Créditos:
+App Lista é exercício da Rocketseat, nomeado de App de Todos.
+Está é uma modificação do exercício com estilização própria e futuros incrementos.
